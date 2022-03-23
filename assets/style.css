@@ -1,0 +1,44 @@
+
+
+
+/* :default css  */
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #12CBC4;
+    border-color: #12CBC4;
+}
+/* btn  */
+.btn-outline-success {
+    font-weight:bold !important;
+    background-color: #EF5544;
+    color:#fff;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #da5849fd;
+    border-color: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer section  */
+.footer-bg {
+   
+    background-color: #12CBC4;
+}
