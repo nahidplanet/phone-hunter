@@ -18,7 +18,9 @@
     background-color: #da5849fd;
     border-color: none;
 }
-
+table, th, td {
+    border: 1px solid black !important;
+  }
 
 
 
